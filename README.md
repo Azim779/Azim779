@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Some projects to learn some coding
 - 📫 How to reach me ... Just knock me
 - 😄 Pronouns: ... Azim
-- ⚡ Fun fact: ... I am a nerd -_- and unemployed fked up
+- ⚡ Fun fact: ... I am a nerd -_- 
 
 <!---
 Azim779/Azim779 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
